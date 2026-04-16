@@ -4,3 +4,5 @@ Take database backup
 Conduct research in competitive pricing
 Scheudule internal team meetings
 Calculate project budget
+Scheudule database backup
+Conduct other non-critical tasks
